@@ -1,6 +1,6 @@
 {
   "name": "ice-workspace",
-  "version": "0.0.2",
+  "version": "0.0.3-0",
   "scripts": {
     "publish": "git fetch --all && git pull origin master && lerna publish",
     "bootstrap": "lerna bootstrap",
